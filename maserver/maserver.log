@@ -1,0 +1,4 @@
+ERROR:__main__:{"event": "API \ud0a4 \ub610\ub294 \uc2dc\ud06c\ub9bf \ubbf8\uc124\uc815 (.env \ud655\uc778)", "level": "error", "timestamp": "2025-08-26T06:58:02.745043Z"}
+ERROR:__main__:{"event": "API \ud0a4 \ub610\ub294 \uc2dc\ud06c\ub9bf \ubbf8\uc124\uc815 (.env \ud655\uc778)", "level": "error", "timestamp": "2025-08-26T07:00:46.424624Z"}
+ERROR:__main__:{"event": "API \ud0a4 \ub610\ub294 \uc2dc\ud06c\ub9bf \ubbf8\uc124\uc815 (.env \ud655\uc778)", "level": "error", "timestamp": "2025-08-26T07:04:21.715234Z"}
+ERROR:__main__:{"error": "('Connection aborted.', ConnectionResetError(10054, '\ud604\uc7ac \uc5f0\uacb0\uc740 \uc6d0\uaca9 \ud638\uc2a4\ud2b8\uc5d0 \uc758\ud574 \uac15\uc81c\ub85c \ub04a\uacbc\uc2b5\ub2c8\ub2e4', None, 10054, None))", "event": "API \ud0a4 \uac80\uc99d \uc624\ub958", "level": "error", "timestamp": "2025-08-26T07:11:47.447052Z"}

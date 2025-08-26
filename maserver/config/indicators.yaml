@@ -1,0 +1,15 @@
+# 지표 정의 및 버전 관리
+indicators:
+  version: "2024-08-26"
+  categories:
+    price_volume:
+      - name: "VWAP"
+        params: {window: 15}
+      - name: "OHLC"
+        params: {interval: 5}
+    volatility:
+      - name: "ATR"
+        params: {window: 14}
+      - name: "STDDEV"
+        params: {window: 15}
+  hash: "abcdef1234567890"

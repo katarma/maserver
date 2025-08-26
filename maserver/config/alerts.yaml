@@ -1,0 +1,14 @@
+# 알람/감지 정책
+alerts:
+  partial_outlier:
+    level: "info"
+    cooldown_min: 10
+    summary: "부분 이상치 탐지"
+  full_outlier:
+    level: "warning"
+    cooldown_min: 30
+    summary: "완전 이상치"
+  stale:
+    level: "error"
+    cooldown_min: 60
+    summary: "데이터 스테일"
