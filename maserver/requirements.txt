@@ -1,6 +1,0 @@
-python-dotenv
-PyYAML
-structlog
-filelock
-binance
-psutil
